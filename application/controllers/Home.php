@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="elearning-app"
+  agent-id="86ece9ad-4553-4241-ad5d-e4143872d711"
+  language-code="en"
+></df-messenger>
+</head>
+<body>
+</body>
+</html>
+
+
+
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
